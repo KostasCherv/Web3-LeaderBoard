@@ -1,0 +1,8 @@
+{
+    "roundId": "1",
+    "roundStartAt": "2022-01-01T00:00:00+0000",
+    "roundEndAt": "2022-01-01T00:10:00+0000",
+    "firstWinner": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "secondWinner": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc3",
+    "thirdWinner": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc4"
+}
